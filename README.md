@@ -9,9 +9,6 @@
 1) Power BI
 2) Excel
 
-## NovyPro Dashboard link: 
-https://www.novypro.com/project/myntra-sales-dashboard-1
-
 ## Key Features:
 1) This entails establishing key performance indicators (KPIs) for revenue, orders, sales amount, and total products.
 2) The project aims to identify top-selling brands and their revenue, analyze owned brands and their product count, and visualize daily sales distribution by category.
